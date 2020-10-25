@@ -14,6 +14,8 @@
 
 1.Locke and the nature of language
 
+[[slides]](slides/01.pdf)
+
 2 Frege on Sense and reference 
 
 3 Russell on definite descriptions 
