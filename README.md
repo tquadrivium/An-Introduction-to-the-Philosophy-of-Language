@@ -14,15 +14,23 @@
 
 1.Locke and the nature of language
 
-[[slides]](slides/01.pdf)
+[[slides1]](slides/01_1.pdf)  [[slides2]](slides/01_2.pdf)
 
 2 Frege on Sense and reference 
 
+[[slides]](slides/02.pdf)
+
 3 Russell on definite descriptions 
+
+slides
 
 4 Kripke on proper names
 
-5 Natural-kind terms 
+[[slides]](slides/04.pdf)
+
+5 Natural-kind terms
+
+[[slides]](slides/05.pdf) 
 
 6 Quine on de re and de dicto modality 
 
