@@ -42,6 +42,8 @@
 
 8 The semantics of propositional attitudes 
 
+[[领读（PPT）]](slides/08_1.pdf)    [[补充文件：读书笔记（PDF）]](slides/08_2.pdf)
+
 9 Davidson on truth and meaning 
 
 10 Quine and Davidson on translation and interpretation 
