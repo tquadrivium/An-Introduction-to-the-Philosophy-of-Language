@@ -34,6 +34,7 @@
 
 6 Quine on de re and de dicto modality 
 
+[[领读（PPT）]](slides/06_1.pdf)
 
 7 Reference and propositional attitudes 
 
