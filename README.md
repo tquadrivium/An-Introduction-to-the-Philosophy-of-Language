@@ -30,9 +30,10 @@
 
 5 Natural-kind terms
 
-[[slides]](slides/05.pdf) 
+[[领读（Focusky）]](slides/05_1.pdf)   [[领读（PDF）]](05_2.pdf)
 
 6 Quine on de re and de dicto modality 
+
 
 7 Reference and propositional attitudes 
 
