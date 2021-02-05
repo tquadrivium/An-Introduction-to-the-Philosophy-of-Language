@@ -38,6 +38,8 @@
 
 7 Reference and propositional attitudes 
 
+[[领读（PPT）]](slides/07_1.pdf)
+
 8 The semantics of propositional attitudes 
 
 9 Davidson on truth and meaning 
