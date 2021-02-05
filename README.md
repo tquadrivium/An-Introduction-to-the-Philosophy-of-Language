@@ -14,11 +14,14 @@
 
 1.Locke and the nature of language
 
-[[领读（PPT）]](slides/01_1.pdf)  [[补充文件1：读书笔记（Xmind）]](slides/01_2.pdf)   [[补充文件2：狗与毛毯]](slides/01_3.pdf)
+[[领读（PPT）]](slides/01_1.pdf)  
+[[补充文件1：读书笔记（Xmind）]](slides/01_2.pdf)   
+[[补充文件2：狗与毛毯]](slides/01_3.pdf)
 
 2 Frege on Sense and reference 
 
-[[领读（PPT）]](slides/02_1.pdf)   [[领读用思维导图（Xmind）]](slides/02_2.pdf)
+[[领读（PPT）]](slides/02_1.pdf)   
+[[领读用思维导图（Xmind）]](slides/02_2.pdf)
 
 3 Russell on definite descriptions 
 
@@ -26,11 +29,13 @@
 
 4 Kripke on proper names
 
-[[领读（Focusky）]](slides/04_1.fs)    [[领读（PDF）]](slides/04_2.pdf)
+[[领读（Focusky）]](slides/04_1.fs)    
+[[领读（PDF）]](slides/04_2.pdf)
 
 5 Natural-kind terms
 
-[[领读（Focusky）]](slides/05_1.fs)    [[领读（PDF）]](slides/05_2.pdf)
+[[领读（Focusky）]](slides/05_1.fs)    
+[[领读（PDF）]](slides/05_2.pdf)
 
 6 Quine on de re and de dicto modality 
 
@@ -42,7 +47,8 @@
 
 8 The semantics of propositional attitudes 
 
-[[领读（PPT）]](slides/08_1.pdf)    [[补充文件：读书笔记（PDF）]](slides/08_2.pdf)
+[[领读（PPT）]](slides/08_1.pdf)    
+[[补充文件：读书笔记（PDF）]](slides/08_2.pdf)
 
 9 Davidson on truth and meaning 
 
