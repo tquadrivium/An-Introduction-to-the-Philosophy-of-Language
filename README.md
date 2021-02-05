@@ -18,7 +18,7 @@
 
 2 Frege on Sense and reference 
 
-[[slides]](slides/02.pdf)
+[[领读PPT]](slides/02_1.pdf)   [[领读用Xmind]](slides/02_2.pdf)
 
 3 Russell on definite descriptions 
 
