@@ -26,11 +26,11 @@
 
 4 Kripke on proper names
 
-[[领读（Focusky）]](slides/04_1.pdf)   [[领读（PDF）]](04_2.pdf)
+[[领读（Focusky）]](slides/04_1.fs)   [[领读（PDF）]](04_2.pdf)
 
 5 Natural-kind terms
 
-[[领读（Focusky）]](slides/05_1.pdf)   [[领读（PDF）]](05_2.pdf)
+[[领读（Focusky）]](slides/05_1.fs)   [[领读（PDF）]](05_2.pdf)
 
 6 Quine on de re and de dicto modality 
 
