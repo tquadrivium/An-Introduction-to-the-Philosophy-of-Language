@@ -14,19 +14,19 @@
 
 1.Locke and the nature of language
 
-[[领读PPT]](slides/01_1.pdf)  [[补充文件1：读书笔记（Xmind）]](slides/01_2.pdf)   [[补充文件2：狗与毛毯]](slides/01_3.pdf)
+[[领读（PPT）]](slides/01_1.pdf)  [[补充文件1：读书笔记（Xmind）]](slides/01_2.pdf)   [[补充文件2：狗与毛毯]](slides/01_3.pdf)
 
 2 Frege on Sense and reference 
 
-[[领读PPT]](slides/02_1.pdf)   [[领读用Xmind]](slides/02_2.pdf)
+[[领读（PPT）]](slides/02_1.pdf)   [[领读用思维导图（Xmind）]](slides/02_2.pdf)
 
 3 Russell on definite descriptions 
 
-slides
+咦？东西不见了！
 
 4 Kripke on proper names
 
-[[slides]](slides/04.pdf)
+[[领读（Focusky）]](slides/04_1.pdf)   [[领读（PDF）]](04_2.pdf)
 
 5 Natural-kind terms
 
