@@ -14,7 +14,7 @@
 
 1.Locke and the nature of language
 
-[[slides1]](slides/01_1.pdf)  [[slides2]](slides/01_2.pdf)
+[[领读PPT]](slides/01_1.pdf)  [[补充文件1：读书笔记（Xmind）]](slides/01_2.pdf)   [[补充文件2：狗与毛毯]](slides/01_3.pdf)
 
 2 Frege on Sense and reference 
 
