@@ -62,6 +62,9 @@
 
 14 Kripke on the rule-following paradox 
 
+[[领读（PPT）]](slides/14_1.pdf)    
+[[补充文件：读书笔记（PDF）]](slides/14_2.pdf)
+
 15 Wittgenstein on the Augustinian picture
 
 ### 2.关于 MICHAEL MORRIS
