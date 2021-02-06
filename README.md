@@ -14,29 +14,41 @@
 
 1.Locke and the nature of language
 
-[[slides1]](slides/01_1.pdf)  [[slides2]](slides/01_2.pdf)
+[[领读（PPT）]](slides/01_1.pdf)  
+[[补充文件1：读书笔记（Xmind）]](slides/01_2.pdf)   
+[[补充文件2：狗与毛毯]](slides/01_3.pdf)
 
 2 Frege on Sense and reference 
 
-[[slides]](slides/02.pdf)
+[[领读（PPT）]](slides/02_1.pdf)   
+[[领读用思维导图（Xmind）]](slides/02_2.pdf)
 
 3 Russell on definite descriptions 
 
-slides
+咦？东西不见了！
 
 4 Kripke on proper names
 
-[[slides]](slides/04.pdf)
+[[领读（Focusky）]](slides/04_1.fs)    
+[[领读（PDF）]](slides/04_2.pdf)
 
 5 Natural-kind terms
 
-[[slides]](slides/05.pdf) 
+[[领读（Focusky）]](slides/05_1.fs)    
+[[领读（PDF）]](slides/05_2.pdf)
 
 6 Quine on de re and de dicto modality 
 
+[[领读（PPT）]](slides/06_1.pdf)
+
 7 Reference and propositional attitudes 
 
+[[领读（PPT）]](slides/07_1.pdf)
+
 8 The semantics of propositional attitudes 
+
+[[领读（PPT）]](slides/08_1.pdf)    
+[[补充文件：读书笔记（PDF）]](slides/08_2.pdf)
 
 9 Davidson on truth and meaning 
 
@@ -49,6 +61,9 @@ slides
 13 Grice on meaning 
 
 14 Kripke on the rule-following paradox 
+
+[[领读（PPT）]](slides/14_1.pdf)    
+[[补充文件：读书笔记（PDF）]](slides/14_2.pdf)
 
 15 Wittgenstein on the Augustinian picture
 
