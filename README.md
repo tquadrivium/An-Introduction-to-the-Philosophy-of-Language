@@ -51,9 +51,12 @@
 [[补充文件：读书笔记（PDF）]](slides/08_2.pdf)
 
 9 Davidson on truth and meaning 
+
 [[领读文稿（PDF）]](slides/09_1.pdf)
 
 10 Quine and Davidson on translation and interpretation 
+
+[[领读文稿（PDF）]](slides/10_1.pdf)
 
 11 Quine on the indeterminacy of translation 
 
