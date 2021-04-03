@@ -60,6 +60,8 @@
 
 11 Quine on the indeterminacy of translation 
 
+[[领读（PPT）]](slides/11_1.pdf)    
+
 12 Austin on speech acts 
 
 13 Grice on meaning 
