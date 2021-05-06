@@ -64,7 +64,11 @@
 
 12 Austin on speech acts 
 
+[[领读文稿（PDF）]](slides/12_1.pdf)
+
 13 Grice on meaning 
+
+[[领读文稿（PDF）]](slides/13_1.pdf)
 
 14 Kripke on the rule-following paradox 
 
