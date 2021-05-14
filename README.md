@@ -77,6 +77,9 @@
 
 15 Wittgenstein on the Augustinian picture
 
+[[领读（PPT）]](slides/15_1.pdf)    
+[[领读文稿（PDF）]](slides/15_2.pdf)
+
 ### 2.关于 MICHAEL MORRIS
 
 MICHAEL MORRIS was at Oxford as an undergraduate and a postgraduate (with a brief spell as a school-teacher between the two) - initially at Exeter College, before being elected to a Rank Xerox Senior Scholarship at Oriel College. MICHAEL MORRIS came to Sussex in 1985.
